@@ -1,0 +1,12 @@
+{
+  "name": "list-app",
+  "displayName": "list-app",
+  "expo": {
+    "name": "list-app",
+    "slug": "list-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
