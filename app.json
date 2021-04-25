@@ -1,12 +1,21 @@
 {
   "name": "list-app",
-  "displayName": "list-app",
+  "icon": "./urso.png",
+  "displayName": "Cute Listing",
   "expo": {
     "name": "list-app",
     "slug": "list-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.jocela.cutelisting",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.jocela.cutelisting",
+      "versionCode": 1
+    }
   }
 }
