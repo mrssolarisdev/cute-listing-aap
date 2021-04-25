@@ -1,4 +1,4 @@
-# cute-listing-aap
+# cute-listing-aapp
 - Simple react native app for creating lists with items and categories. Designed with a cute aesthetic in mind.
 - Aplicativo simples feito com React Native para criar listas com itens e categorias. Modelado com uma estética simples e fofa em mente.
 
