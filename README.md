@@ -2,8 +2,6 @@
 
 Aplicativo simples feito com React Native para criar listas com itens e categorias. Modelado com uma estética simples e fofa em mente.
 
-Link da apresentação do
-
 ## Componentes do Grupo
 
 * ### João Gabriel Setubal Pires (login GitHub: jgspires)
