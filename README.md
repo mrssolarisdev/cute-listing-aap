@@ -8,7 +8,7 @@ Aplicativo simples feito com React Native para criar listas com itens e categori
 
 ## Commits e Elaboração
 
-### Link do vídeo da apresentação do app no youtube: https://www.youtube.com/watch?v=BtHOmYmShlw
+## Link do vídeo da apresentação do app no youtube: https://www.youtube.com/watch?v=8E7keY2JW50
 
 ### O aplicativo possui três entidades/CRUDS: listas, categorias e itens.
 
