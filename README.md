@@ -3,6 +3,8 @@
 Simple React Native listing app with a cute, simple aesthetic.
 The user can create multiple lists with different names and colours, all of which can contain multiple coloured categories with several items that can then be checked and unchecked as the user meets their criteria. Very useful for shopping lists, groceries etc..
 
+Data is fetched using a RESTful API, currently as a proof of concept.
+
 # Gallery
 
 ### List Overview (Main Screen):
