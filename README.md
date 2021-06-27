@@ -13,7 +13,7 @@ The user can create multiple lists with different names and colours, all of whic
 
 ![alt text](Screenshots/ListScreen.png?raw=true "List Screen")
 
-## List Categories (Categories can minimized/maximized in order to show the items within and better organize screen space):
+### List Categories (Categories can minimized/maximized in order to show the items within and better organize screen space):
 
 ![alt text](Screenshots/ListCategories.png?raw=true "List Categories")
 
