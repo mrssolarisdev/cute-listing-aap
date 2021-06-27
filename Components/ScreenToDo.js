@@ -420,7 +420,7 @@ const ScreenToDo = ({ navigation, route }) => {
         {renderLists()}
         {renderAddListDialog()}
         {renderDeleteDialog()}
-        {renderBear()}
+        {/*renderBear()*/}
         {renderBearDialog()}
       </ScrollView>
       <View style={bottom}>
