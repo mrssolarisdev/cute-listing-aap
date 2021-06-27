@@ -11,11 +11,11 @@ Data is fetched using a RESTful API, currently as a proof of concept.
 
 ![alt text](Screenshots/Overview.png?raw=true "List Overview")
 
-### List Screen (Whenever a user selects a list, BG colour changes according to selected list's colour):
+### List Screen (Whenever a user selects a list. BG colour changes according to selected list's colour):
 
 ![alt text](Screenshots/ListScreen.png?raw=true "List Screen")
 
-### List Categories (Categories can minimized/maximized in order to show the items within and better organize screen space):
+### List Categories (Categories can be minimized/maximized in order to show the items within and better organize screen space):
 
 ![alt text](Screenshots/ListCategories.png?raw=true "List Categories")
 
